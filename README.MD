@@ -1,4 +1,4 @@
-#redisTools
+# redisTools
 
 redisTools is a program written in Go for analyzing all the items in a Redis server. I created this program as a way of figuring out what types of data were taking up the most space in a Redis server. 
 
